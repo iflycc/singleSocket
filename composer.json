@@ -1,0 +1,16 @@
+{
+    "name": "single/socket",
+    "description": "a single blocking socket coding~",
+    "authors": [
+        {
+            "name": "iflycc",
+            "email": "just.cc@icloud.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Single\\Scoket\\":"./src/"
+        }
+    }
+}
